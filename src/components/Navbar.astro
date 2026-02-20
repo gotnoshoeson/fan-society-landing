@@ -2,7 +2,6 @@
 // Define your navigation links here
 const navLinks = [
   { href: '/#services', label: 'Services' },
-  { href: '/about', label: 'About us' },
   { href: '/#protocol', label: 'Protocol' },
 ];
 
@@ -28,16 +27,7 @@ import Container from "./Container.astro"
                 <a href={link.href} class="block py-2 px-3 text-black rounded md:bg-transparent md:p-0">{link.label}</a>
             </li>
             ))}
-            <li>
-                <a rel="noopener noreferrer" href="https://testnet.fansociety.xyz" class="md:hidden px-9 py-5 rounded-2xl border border-zinc-900 bg-white hover:bg-black text-black hover:text-white inline-flex">
-                  <h2 class="text-center text-xl font-normal leading-7">Go to app</h2>
-                </a>
-            </li>
         </ul>
-      </div>
-      <div class="hidden w-full md:block md:w-auto" id="navbar-default">
-        <a class="px-9 py-5 rounded-2xl border border-zinc-900 bg-white hover:bg-black text-black hover:text-white inline-flex" href="https://testnet.fansociety.xyz"><h2 class="text-center text-xl font-normal leading-7">Go to app</h2>
-        </a>
       </div>
     </div>
   </Container>

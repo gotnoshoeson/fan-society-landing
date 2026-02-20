@@ -18,46 +18,30 @@
             "hid": "accordion-open-heading-1",
             "bid": "accordion-open-body-1",
             "target": "#accordion-open-body-1",
-            "title": "Join FanSociety",
-            "description": "Whether you're an artist or a fan, everyone enters through the same doors. Create an account with your EVM compatible wallet and you'll be dubbed a Fan. Use the app to discover and support new artists by minting FanPins."
+            "title": "Deploy Your Smart Contract",
+            "description": "FanSociety is a simple protocol and our goal is to get Artists started with the least amount of friction. Deploy your very own ERC-1155 smart contract by signing a transaction with your wallet. That's it — you're now the proud owner of a smart contract to manage your community."
         },
         {
             "id": "02",
             "hid": "accordion-open-heading-2",
             "bid": "accordion-open-body-2",
             "target": "#accordion-open-body-2",
-            "title": "Get Whitelisted",
-            "description": "FanSociety is a place for REAL emerging artists and music lovers; there's no place here for trolls, posers, or fakes.  If you're an artist or group, reach out for a face to face introduction and we'll whitelist you as an Artist account."
+            "title": "FanPins",
+            "description": "FanSociety is a donation platfom. A FanPin is a proof of donation. Under the hood, they're ERC-1155 tokens. FanPins are a kind of hybrid between NFTs and ERC-20 tokens; they can have an image represent the token like an NFT, and they can be fungible in the sense that multiple accounts can hold the same FanPins. This allows Fans to be identified in cohorts or generations of fans. Earlier Fans are more valued than later arriving fans and can be rewarded with acts of appreciation from the Artist; that's how we think things should work anyways."
         },
         {
             "id": "03",
             "hid": "accordion-open-heading-3",
             "bid": "accordion-open-body-3",
             "target": "#accordion-open-body-3",
-            "title": "Deploy Your Smart Contract",
-            "description": "FanSociety is a simple protocol and our goal is to get Artists started with the least amount of friction. Click on the Deploy Contract button and sign the transaction with your wallet. BAM!!! You are now the proud owner of your very own ERC-1155 smart contract and you'll be provided a dashboard to manage it."
+            "title": "Create a FanPin",
+            "description": "Creating a FanPin is easy; provide both an image to represent the FanPin, and the minimum required donation amount in ETH. We'll host the image on IPFS and set up the necessary token metadata, the Artist will sign a transaction to create a token within their smart contract. Any Fan that now wants to support the Artist can donate and will mint the active FanPin as proof of supporting the Artist. At any time, the Artist can create a new FanPin 'generation' by following the previous steps. When a new FanPin 'generation' is created, the previous FanPin will no longer be active and Fans will now receive the new FanPin as proof of support. In this way, the Artist can use a single smart contract for the entirety of their career to demarcate different 'generations' of Fans. There is no need for a pre-defined number of tokens to create artificial scarcity and there is no need to first develop a collection of artwork in order to get started. On the other hand, a FanSociety smart contract is a 'living' contract that needs to be managed with care in order to foster a healthy functioning community. In other words, we're providing the protocol, but it's up to the Artists and Fans to make this thing work."
         },
         {
             "id": "04",
             "hid": "accordion-open-heading-4",
             "bid": "accordion-open-body-4",
             "target": "#accordion-open-body-4",
-            "title": "FanPins",
-            "description": "FanSociety is a donation platfom. A FanPin is a proof of donation. Under the hood, they're ERC-1155 tokens. FanPins are a kind of hybrid between NFTs and ERC-20 tokens; they can have an image represent the token like an NFT, and they can be fungible in the sense that multiple accounts can hold the same FanPins. This allows Fans to be identified in cohorts or generations of fans. Earlier Fans are more valued than later arriving fans and can be rewarded with acts of appreciation from the Artist; that's how we think things should work anyways."
-        },
-        {
-            "id": "05",
-            "hid": "accordion-open-heading-5",
-            "bid": "accordion-open-body-5",
-            "target": "#accordion-open-body-5",
-            "title": "Create a FanPin",
-            "description": "Creating a FanPin is easy; provide both an image to represent the FanPin, and the minimum required donation amount in ETH. We'll host the image on IPFS and set up the necessary token metadata, the Artist will sign a transaction to create a token within their smart contract. Any Fan that now wants to support the Artist can donate and will mint the active FanPin as proof of supporting the Artist. At any time, the Artist can create a new FanPin 'generation' by following the previous steps. When a new FanPin 'generation' is created, the previous FanPin will no longer be active and Fans will now receive the new FanPin as proof of support. In this way, the Artist can use a single smart contract for the entirety of their career to demarcate different 'generations' of Fans. There is no need for a pre-defined number of tokens to create artificial scarcity and there is no need to first develop a collection of artwork in order to get started. On the other hand, a FanSociety smart contract is a 'living' contract that needs to be managed with care in order to foster a healthy functioning community. In other words, we're providing the protocol, but it's up to the Artists and Fans to make this thing work."
-        },
-        {
-            "id": "06",
-            "hid": "accordion-open-heading-6",
-            "bid": "accordion-open-body-6",
-            "target": "#accordion-open-body-6",
             "title": "Give Thanks",
             "description": "FanSociety is designed as a two way conduit to foster the 'giving economy'. Artists now have a decentralized database of Fans and have the ability to give back in (mostly) any way they want. Artists could give away merch, such as t-shirts or limited edition vinyl, or even tickets to shows. On-chain raffles are also possible with on-chain verified randomness. It's up to each Artist to decide what, who, and when to give back to not just say 'Thank You for your support', but to actually show it. Keep in mind, Artists never promise any sort of reward for a Fan's donation; there is no sense of a 'return on investment' because FanSociety is an entirely donation based protocol. Give happily."
         }
