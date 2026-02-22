@@ -21,8 +21,8 @@
         "id": 3,
         "name1": "Bridging Web2 Users",
         "name2": "With Web3 Use Case",
-        "background": "h-[310px] p-12 bg-black rounded-[45px] shadow border border-black justify-between items-center flex text-white",
-        "arrow": "./services/aw.svg",
+        "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
         "link": "./",
         "image": "./services/05.svg"
     },
